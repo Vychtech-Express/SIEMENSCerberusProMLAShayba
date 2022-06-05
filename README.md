@@ -1,5 +1,7 @@
 Охранно-пожарная сигнализация и сопряжение со смежными системами (свето-звуковая сигнализация, лифты, СКУД, газовое пожаротушение)
 
+https://www.google.com/maps/place/%D0%A8%D0%B0%D0%B9%D0%B1%D0%B0/@43.4022601,39.951905,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM_tkgsX6Lkx6rZgvI8EuSpYGKtizKUOl4jyYkj!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM_tkgsX6Lkx6rZgvI8EuSpYGKtizKUOl4jyYkj%3Dw203-h152-k-no!7i4032!8i3024!4m7!3m6!1s0x40f5950adad8ebab:0x8d69393b8893ef9a!8m2!3d43.4022601!4d39.951905!14m1!1BCgIgAQ
+
 Проектная документация на сервере в папке `P:\Сириус МЛА Малая ледовая арена`
 
 Топология шлейфов:
