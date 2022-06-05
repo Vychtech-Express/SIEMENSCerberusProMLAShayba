@@ -25,6 +25,7 @@
 #### Центральный пункт СПБ и АСПТ (пом. 1223), панель 1, пульты газового пожаротушения, прибор водяного пожаротушения
 
 ![IMG_5277](https://user-images.githubusercontent.com/104857185/172073154-6bf68eaa-f568-4927-befe-59c61647bd96.JPG)
+![20170124_155751](https://user-images.githubusercontent.com/104857185/172074287-74294180-3cd1-4a99-8731-af7372800786.jpg)
 ![IMG_5276](https://user-images.githubusercontent.com/104857185/172074209-d1bdeb8d-62e8-461e-a6a4-e3783c834b79.JPG)
 ![IMG_5279](https://user-images.githubusercontent.com/104857185/172073189-86c65f9d-6101-4337-9f60-86f600947c38.JPG)
 ![IMG_5291](https://user-images.githubusercontent.com/104857185/172073205-a65e5f43-4d72-405f-bded-77c7a7213969.JPG)
