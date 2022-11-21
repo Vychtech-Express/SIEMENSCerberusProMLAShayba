@@ -50,4 +50,4 @@
 ![P1160593](https://user-images.githubusercontent.com/104857185/172073854-d7f40b53-cd4b-472a-a091-52e1f557b6db.JPG)
 
 
-Указания по считыванию топологии, конфигурированию, рисованию проекта в ММ-ке см. в https://github.com/tsv19su254052/SIEMENSCerberusProAirPortPlatov
+Указания по считыванию топологии, конфигурированию, рисованию проекта в ММ-ке см. на этом [объекте](https://github.com/tsv19su254052/SIEMENSCerberusProAirPortPlatov)
